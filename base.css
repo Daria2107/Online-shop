@@ -10,6 +10,7 @@ body {
   background-color: #fafafa;
   display: flex;
   column-gap: 37px;
+  max-width: 1600px;
 }
 
 /* Utility */
